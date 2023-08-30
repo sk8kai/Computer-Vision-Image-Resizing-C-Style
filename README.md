@@ -1,1 +1,1 @@
-# Computer-Vision-Image-Resizing-C-Style
+# P2_CV
